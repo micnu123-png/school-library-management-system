@@ -1,4 +1,9 @@
-const release = { version: "2.00", installer: "SchoolLibrarySystem_Setup_v2.00.exe", downloadUrl: "", githubUrl: "" };
+const release = {
+  version: "2.00",
+  installer: "SchoolLibrarySystem_Setup_v2.00.exe",
+  downloadUrl: "PASTE-YOUR-COPIED-EXE-LINK-HERE",
+  githubUrl: "https://github.com/micnu123-png/school-library-management-system"
+};
 
 document.addEventListener("DOMContentLoaded", () => {
   document.querySelector("[data-menu-button]")?.addEventListener("click", () => {
