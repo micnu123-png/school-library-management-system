@@ -1,0 +1,11 @@
+{
+  "product": "School Library Management System",
+  "publisher": "CatholicDiscovery Digital",
+  "version": "2.0.0",
+  "release_date": "",
+  "download_url": "",
+  "release_notes_url": "/changelog.html",
+  "mandatory": false,
+  "installer_name": "SchoolLibrarySystem_Setup_v2.00.exe",
+  "notes": ["Version 2.00 production release candidate"]
+}
