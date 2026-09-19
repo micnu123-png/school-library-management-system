@@ -1,7 +1,7 @@
 const release = {
   version: "2.00",
   installer: "SchoolLibrarySystem_Setup_v2.00.exe",
-  downloadUrl: "PASTE-YOUR-COPIED-EXE-LINK-HERE",
+  downloadUrl: "https://github.com/micnu123-png/school-library-management-system/releases/download/v2.00/SchoolLibrarySystem_Setup_v2.00.exe",
   githubUrl: "https://github.com/micnu123-png/school-library-management-system"
 };
 
